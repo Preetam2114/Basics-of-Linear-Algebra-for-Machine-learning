@@ -1,2 +1,5 @@
 # ignore folders
 .ipynb_checkpoints
+
+# Files
+.DS_Store
