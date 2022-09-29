@@ -7,22 +7,22 @@ The content of the repository is Jupyter notebook format for Jason brownlee's bo
 The table of content for the repository is as below:
 
 <details>
-  <summary>01. Intoduction to NumPy Arrays</summary>
+  <summary>Intoduction to NumPy Arrays</summary>
 
-- 01. [NumPy Basics][1]
-- 02. [Combining Arrays][2]
-- 03. [Index, Slice and Reshape NumPy Arrays][3]
-- 04. [NumPy Array Broadcasting][4]
+1.  [NumPy Basics][1]
+2.  [Combining Arrays][2]
+3.  [Index, Slice and Reshape NumPy Arrays][3]
+4.  [NumPy Array Broadcasting][4]
   
 </details>
-
+<br>
 <details>
-  <summary>02. Matrices</summary>
+  <summary>Matrices</summary>
 
-- 01. [1. Vectors and Vector Arithmetic][5]
-- 02. [2. Vector Norms][6]
-- 03. [3. Matrices and Matrix Arithmetic][7]
-- 04. [4. Types of Matrices][8]
+1.  [Vectors and Vector Arithmetic][5]
+2.  [Vector Norms][6]
+3.  [Matrices and Matrix Arithmetic][7]
+4.  [Types of Matrices][8]
   
 </details>
 
