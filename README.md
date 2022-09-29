@@ -15,7 +15,7 @@ The table of content for the repository is as below:
 4.  [NumPy Array Broadcasting][4]
   
 </details>
-<br>
+
 <details>
   <summary>Matrices</summary>
 
