@@ -23,6 +23,7 @@ The table of content for the repository is as below:
 2.  [Vector Norms][6]
 3.  [Matrices and Matrix Arithmetic][7]
 4.  [Types of Matrices][8]
+5.  [Matrix Operations][9]
   
 </details>
 
@@ -35,3 +36,4 @@ The table of content for the repository is as below:
 [6]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/3.%20Matrices%20and%20Matrix%20Arithmetic.ipynb
 [7]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/3.%20Matrices%20and%20Matrix%20Arithmetic.ipynb
 [8]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/4.%20Types%20of%20Matrices.ipynb
+[9]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/5.%20Matrix%20Operations.ipynb
