@@ -25,6 +25,7 @@ The table of content for the repository is as below:
 4.  [Types of Matrices][8]
 5.  [Matrix Operations][9]
 6.  [Sparse Matrices][10]
+7.  [Tensors and Tensor Arithmetic][11]
   
 </details>
 
@@ -39,3 +40,4 @@ The table of content for the repository is as below:
 [8]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/4.%20Types%20of%20Matrices.ipynb
 [9]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/5.%20Matrix%20Operations.ipynb
 [10]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/6.%20Sparse%20Matrices.ipynb
+[11]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/7.%20Tensors%20and%20Tensor%20Arithmetic.ipynb
