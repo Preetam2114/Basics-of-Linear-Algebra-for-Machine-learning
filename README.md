@@ -29,6 +29,13 @@ The table of content for the repository is as below:
   
 </details>
 
+<details>
+  <summary>Factorization</summary>
+  
+1.  [Matrix Decompositions][12]
+
+</details>
+
 <!-- Links reference -->
 [1]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/01.%20Intoduction%20to%20NumPy%20Arrays/01.%20NumPy%20Basics.ipynb
 [2]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/01.%20Intoduction%20to%20NumPy%20Arrays/02.%20Combining%20Arrays.ipynb
@@ -41,3 +48,4 @@ The table of content for the repository is as below:
 [9]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/5.%20Matrix%20Operations.ipynb
 [10]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/6.%20Sparse%20Matrices.ipynb
 [11]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/7.%20Tensors%20and%20Tensor%20Arithmetic.ipynb
+[12]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/1.%20Matrix%20Decompositions.ipynb
