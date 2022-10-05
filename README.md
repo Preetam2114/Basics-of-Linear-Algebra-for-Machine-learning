@@ -33,7 +33,8 @@ The table of content for the repository is as below:
   <summary>Factorization</summary>
   
 1.  [Matrix Decompositions][12]
-2.  [Singular Value Decomposition][13]
+2.  [Eigendecomposition][13]
+3.  [Singular Value Decomposition][14]
 
 </details>
 
@@ -51,3 +52,4 @@ The table of content for the repository is as below:
 [11]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/02.%20Matrices/7.%20Tensors%20and%20Tensor%20Arithmetic.ipynb
 [12]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/1.%20Matrix%20Decompositions.ipynb
 [13]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/2.%20Eigendecomposition.ipynb
+[14]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/3.%20Singular%20Value%20Decomposition.ipynb
