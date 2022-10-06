@@ -43,7 +43,7 @@ The table of content for the repository is as below:
   
 1.  [Introduction to Multivariate Statistics][15]
 2.  [Principal Component Analysis][16]
-3.  [Statistics][17]
+3.  [Linear Regression][17]
 
 </details>
 
