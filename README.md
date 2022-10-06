@@ -38,6 +38,13 @@ The table of content for the repository is as below:
 
 </details>
 
+<details>
+  <summary>Statistics</summary>
+  
+1.  [Introduction to Multivariate Statistics][15]
+
+</details>
+
 <!-- Links reference -->
 [1]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/01.%20Intoduction%20to%20NumPy%20Arrays/01.%20NumPy%20Basics.ipynb
 [2]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/01.%20Intoduction%20to%20NumPy%20Arrays/02.%20Combining%20Arrays.ipynb
@@ -53,3 +60,4 @@ The table of content for the repository is as below:
 [12]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/1.%20Matrix%20Decompositions.ipynb
 [13]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/2.%20Eigendecomposition.ipynb
 [14]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/3.%20Singular%20Value%20Decomposition.ipynb
+[15]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/04.%20Statistics/1.%20Introduction%20to%20Multivariate%20Statistics.ipynb
