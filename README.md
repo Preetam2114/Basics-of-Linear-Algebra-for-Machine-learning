@@ -43,6 +43,7 @@ The table of content for the repository is as below:
   
 1.  [Introduction to Multivariate Statistics][15]
 2.  [Principal Component Analysis][16]
+3.  [Statistics][17]
 
 </details>
 
@@ -63,3 +64,4 @@ The table of content for the repository is as below:
 [14]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/03.%20Factorization/3.%20Singular%20Value%20Decomposition.ipynb
 [15]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/04.%20Statistics/1.%20Introduction%20to%20Multivariate%20Statistics.ipynb
 [16]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/04.%20Statistics/2.%20Principal%20Component%20Analysis.ipynb
+[17]: https://github.com/Preetam2114/Basics-of-Linear-Algebra-for-Machine-learning/blob/main/04.%20Statistics/3.%20Linear%20Regression.ipynb
